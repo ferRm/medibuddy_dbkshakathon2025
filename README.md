@@ -18,4 +18,9 @@ MediBuddy is a user-friendly mobile app designed to help people understand compl
 
 ### Go to https://medibuddy-467110276845047.aws.databricksapps.com/
 
-### System Prompt 
+
+### Useful Prompts 
+
+If you have a concern about a result in your tests results ask which doctor to see 
+
+![which doctor](/prompts/Picture2.png)
