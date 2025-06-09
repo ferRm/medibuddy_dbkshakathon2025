@@ -20,7 +20,7 @@ MediBuddy is a user-friendly mobile app designed to help people understand compl
 
 Upload a document and ask for a detailed explanation of its contents 
 
-![which doctor](/prompts/Picture2.png)
+![which doctor](/prompts/Picture4.png)
 
 ### Useful Prompts 
 
