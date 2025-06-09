@@ -18,9 +18,21 @@ MediBuddy is a user-friendly mobile app designed to help people understand compl
 
 ### Go to https://medibuddy-467110276845047.aws.databricksapps.com/
 
+Upload a document and ask for a detailed explanation of its contents 
+
+![which doctor](/prompts/Picture2.png)
 
 ### Useful Prompts 
 
 If you have a concern about a result in your tests results ask which doctor to see 
 
 ![which doctor](/prompts/Picture2.png)
+
+
+Ask for useful links/more information 
+
+![which doctor](/prompts/Picture3.png)
+
+
+
+
